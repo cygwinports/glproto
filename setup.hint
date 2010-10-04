@@ -1,3 +1,4 @@
 category: X11
+requires: xproto
 sdesc: "X.Org OpenGL extension headers"
 ldesc: "X.Org OpenGL extension headers"
