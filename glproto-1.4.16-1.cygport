@@ -1,0 +1,6 @@
+inherit xorg
+
+CATEGORY="X11"
+SUMMARY="X.Org OpenGL extension headers"
+
+REQUIRES="xproto"
