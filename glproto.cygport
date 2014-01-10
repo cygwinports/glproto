@@ -1,0 +1,11 @@
+inherit xorg
+
+NAME="glproto"
+VERSION=1.4.16
+RELEASE=1
+CATEGORY="Devel"
+SUMMARY="X.Org OpenGL extension headers"
+DESCRIPTION="The GLX extension defines a protocol for the client to send 3D
+rendering commands to the X server."
+
+REQUIRES="xproto"
